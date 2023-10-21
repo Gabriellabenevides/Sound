@@ -1,0 +1,14 @@
+C:\Desenvolvimento\Sound\Sound\bin\Debug\net6.0\Sound.exe
+C:\Desenvolvimento\Sound\Sound\bin\Debug\net6.0\Sound.deps.json
+C:\Desenvolvimento\Sound\Sound\bin\Debug\net6.0\Sound.runtimeconfig.json
+C:\Desenvolvimento\Sound\Sound\bin\Debug\net6.0\Sound.dll
+C:\Desenvolvimento\Sound\Sound\bin\Debug\net6.0\Sound.pdb
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.AssemblyInfo.cs
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.dll
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\refint\Sound.dll
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.pdb
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\Sound.genruntimeconfig.cache
+C:\Desenvolvimento\Sound\Sound\obj\Debug\net6.0\ref\Sound.dll
